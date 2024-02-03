@@ -14,7 +14,7 @@ import Biz_haqimizda from "./pages/Biz_haqimizda";
 import Ommaviy from "./pages/Ommaviy";
 import Error from "./pages/Error";
 import Home from "./pages/Home";
-import Mainlayout from "./layout/Mainlayout";
+import Mainlayout from "./layout/MainLayout";
 import Detail from "./pages/Detail";
 import CategoryProduct from "./pages/CategoryProduct";
 
