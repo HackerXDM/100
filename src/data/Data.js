@@ -88,7 +88,7 @@ import TelefonlarTort from "../image/TelefonlarTort.webp";
 import GozallikBir from "../image/GozallikBir.webp";
 import GozallikIkki from "../image/GozallikIkki.webp";
 import GozallikUch from "../image/GozallikUch.webp";
-import GozallikTort from "../image/GozallikTort.webp";
+import GozallikTort from "../image/Gozalliktort.webp";
 import GozallikBesh from "../image/GozallikBesh.webp";
 import GozallikOlti from "../image/GozallikOlti.webp";
 import GozallikYetti from "../image/GozallikYetti.webp";
