@@ -1,54 +1,18 @@
 //Barchasi Image
-import BarchasiBir from "../image/BarchaBirData.webp";
-import BarchasiIkki from "../image/BarchasiIkkiData.webp";
-import BarchasiUch from "../image/BarchasiUchData.webp";
-import BarchasiTort from "../image/BarchasiTortData.webp";
-import BarchasiBesh from "../image/BarchasiBeshData.webp";
-import BarchasiOlti from "../image/BarchasiOltiData.webp";
-import BarchasiYetti from "../image/BarchasiYettiData.webp";
-import BarchasiSakkiz from "../image/BarchasiSakkizData.webp";
 import BarchasiToqqiz from "../image/BarchasiToqqizData.webp";
 import BarchasiOn from "../image/BarchasiOnData.webp";
-import BarchasiOnbir from "../image/BarchasiOnbirData.webp";
-import BarchasiOnikki from "../image/BarchasiOnikkiData.webp";
-import BarchasiOnuch from "../image/BarchasiOnuchData.webp";
-import BarchasiOntort from "../image/BarchasiOntortData.webp";
-import BarchasiOnbesh from "../image/BarchasiOnbeshData.webp";
-import BarchasiOnolti from "../image/BarchasiOnoltiData.webp";
-import BarchasiOnyetti from "../image/BarchasiOnyettiData.webp";
-import BarchasiOnsakkiz from "../image/BarchasiOnsakkizData.webp";
 import BarchasiOntoqqiz from "../image/BarchasiOntoqqizData.webp";
-import BarchasiYigirma from "../image/BarchasiYigirmaData.webp";
 import BarchasiYigirmabir from "../image/BarchasiYigirmabirData.webp";
 import BarchasiYigirmaikki from "../image/BarchasiYigirmaikkiData.webp";
-import BarchasiYigirmauch from "../image/BarchasiYigirmauchData.webp";
-import BarchasiYigirmatort from "../image/BarchasiYigirmatortData.webp";
-import BarchasiYigirmabesh from "../image/BarchasiYigirmabeshData.webp";
 import BarchasiYigirmaolti from "../image/BarchasiYigirmaoltiData.webp";
 import BarchasiYigirmayetti from "../image/BarchasiYigirmayettiData.webp";
-import BarchasiYigirmasakkiz from "../image/BarchasiYigirmasakkizData.webp";
-import BarchasiYigirmatoqqiz from "../image/BarchasiYigirmatoqqizData.webp";
 import BarchasiOttiz from "../image/BarchasiOttizData.webp";
-import BarchasiOttizbir from "../image/BarchasiOttizbirData.webp";
-import BarchasiOttizikki from "../image/BarchasiOttizikkiData.webp";
-import BarchasiOttizuch from "../image/BarchasiOttizuchData.webp";
-import BarchasiOttiztort from "../image/BarchasiOttiztortData.webp";
-import BarchasiOttizbesh from "../image/BarchasiOttizbeshData.webp";
-import BarchasiOttizolti from "../image/BarchasiOttizoltiData.webp";
 import BarchasiOttizyetti from "../image/BarchasiOttizyettiData.webp";
-import BarchasiOttizsakkiz from "../image/BarchasiOttizsakkizData.webp";
 import BarchasiOttiztoqqiz from "../image/BarchasiOttiztoqqizData.webp";
-import BarchasiQirq from "../image/BarchasiQirqData.webp";
 import BarchasiQirqbir from "../image/BarchasiQirqbirData.webp";
-import BarchasiQirqikki from "../image/BarchasiQirqikkiData.webp";
-import BarchasiQirquch from "../image/BarchasiQirquchData.webp";
-import BarchasiQirqtort from "../image/BarchasiQirqtortData.webp";
-import BarchasiQirqbesh from "../image/BarchasiQirqbeshData.webp";
 import BarchasiQirqolti from "../image/BarchasiQirqoltiData.webp";
 import BarchasiQirqyetti from "../image/BarchasiQirqyettiData.webp";
 import BarchasiQirqsakkiz from "../image/BarchasiQirqsakkizData.webp";
-import BarchasiQirqtoqqiz from "../image/BarchasiQirqtoqqiz.webp";
-import BarchasiEllik from "../image/BarchasiEllikData.webp";
 
 //Ommabop mahsulotlarning rasmlari
 import OmmabopMahsulotlarBir from "../image/OmmabopMahsulotlarBir.webp";
@@ -64,11 +28,6 @@ import OmmabopMahsulotlarSakkiz from "../image/OmmabopMahsulotlarSakkiz.webp";
 import YangiKelganMahsulotlarBir from "../image/YangiKelganMahsulotlarBir.webp";
 import YangiKelganMahsulotlarIkki from "../image/YangiKelganMahsulotlarIkki.webp";
 import YangiKelganMahsulotlarUch from "../image/YangiKelganMahsulotlarUch.webp";
-import YangiKelganMahsulotlarTort from "../image/YangiKelganMahsulotlarTort.webp";
-import YangiKelganMahsulotlarBesh from "../image/YangiKelganMahsulotlarBesh.webp";
-import YangiKelganMahsulotlarOlti from "../image/YangiKelganMahsulotlarOlti.webp";
-import YangiKelganMahsulotlarYetti from "../image/YangiKelganMahsulotlarYetti.webp";
-import YangiKelganMahsulotlarSakkiz from "../image/YangiKelganMahsulotlarSakkiz.webp";
 
 //Elektronika img
 import ElektronBir from "../image/ElektronBir.webp";
@@ -94,16 +53,12 @@ import GozallikOlti from "../image/GozallikOlti.webp";
 import GozallikYetti from "../image/GozallikYetti.webp";
 import GozallikSakkiz from "../image/GozallikSakkiz.webp";
 import GozallikToqqiz from "../image/GozallikToqqiz.webp";
-import GozallikOn from "../image/GozallikOn.webp";
-import GozallikOnbir from "../image/GozallikOnbir.webp";
 import GozallikOnikki from "../image/GozallikOnikki.webp";
 import GozallikOnuch from "../image/GozallikOnuch.webp";
 import GozallikOntort from "../image/GozallikOntort.webp";
 import GozallikOnbesh from "../image/GozallikOnbesh.webp";
 import GozallikOnolti from "../image/GozallikOnolti.webp";
 import GozallikOnyetti from "../image/GozallikOnyetti.webp";
-import GozallikOnsakkiz from "../image/GozallikOnsakkiz.webp";
-import GozallikOntoqqiz from "../image/GozallikOntoqqiz.webp";
 import GozallikYigirma from "../image/GozallikYigirma.webp";
 
 //Maishiy Texnika
@@ -140,7 +95,7 @@ import VitaminlarBir from "../image/VitaminlarBir.webp";
 import VitaminlarIkki from "../image/VitaminlarIkki.webp";
 import VitaminlarUch from "../image/VitaminlarUch.webp";
 import VitaminlarTort from "../image/VitaminlarTort.webp";
-import VitaminlarBesh from "../image/VitaminlarBesh.webp";
+import VitaminlarBesh from "../image/VItaminlarBesh.webp";
 import VitaminlarOlti from "../image/VitaminlarOlti.webp";
 import VitaminlarYetti from "../image/VitaminlarYetti.webp";
 
@@ -155,8 +110,6 @@ import KremlarUch from "../image/KremlarUch.webp";
 import KremlarTort from "../image/KremlarTort.webp";
 
 //Ortopedik Buyumlar import image
-import OrtopedikBuyumlarBir from "../image/OrtopedikBuyumlarBir.webp";
-import OrtopedikBuyumlarIkki from "../image/OrtopedikBuyumlarIkki.webp";
 import OrtopedikBuyumlarUch from "../image/OrtopedikBuyumlarUch.webp";
 import OrtopedikBuyumlarTort from "../image/OrtopedikBuyumlarTort.webp";
 import OrtopedikBuyumlarBesh from "../image/OrtopedikBuyumlarBesh.webp";
@@ -164,17 +117,12 @@ import OrtopedikBuyumlarBesh from "../image/OrtopedikBuyumlarBesh.webp";
 //Quloqchinlar import image
 import QuloqchinlarBir from "../image/QuloqchinlarBir.webp";
 import QuloqchinlarIkki from "../image/QuloqchinlarIkki.webp";
-import QuloqchinlarUch from "../image/QuloqchinlarUch.webp";
-import QuloqchinlarTort from "../image/QuloqchinlarTort.webp";
 
 //Elektronika import image
 import AqlliSoatlarBir from "../image/AqlliSoatlarBir.webp";
 import AqlliSoatlarIkki from "../image/AqlliSoatlarIkki.webp";
 import AqlliSoatlarUch from "../image/AqlliSoatlarUch.webp";
 import AqlliSoatlarTort from "../image/AqlliSoatlarTort.webp";
-
-//Foto Va Video Texnika import image
-import FotoVaVideoTexnikaBir from "../image/FotoVaVideoTexnikaBir.webp";
 
 //Navigatorlar import image
 import NavigatorlarBir from "../image/NavigatorlarBir.webp";
@@ -191,7 +139,6 @@ import TashqiAkumulyatorlarIkki from "../image/TashqiAkumulyatorlarIkki.webp";
 
 //Telefon aksessuarlari import image
 import TelefonAksessurlariBir from "../image/TelefonAksessurlariBir.webp";
-import TelefonAksessurlariIkki from "../image/TelefonAksessurlariIkki.webp";
 import TelefonAksessurlariUch from "../image/TelefonAksessurlariUch.webp";
 import TelefonAksessurlariTort from "../image/TelefonAksessurlariTort.webp";
 
@@ -201,23 +148,16 @@ import KnopkaliTelefonlarIkki from "../image/KnopkaliTelefonlarIkki.webp";
 import KnopkaliTelefonlarUch from "../image/KnopkaliTelefonlarUch.webp";
 import KnopkaliTelefonlarTort from "../image/KnopkaliTelefonlarTort.webp";
 
-//Simli Telefonlar import image
-import SimliTelefonlarBir from "../image/SimliTelefonlarBir.webp";
 
 //Oshxona Buyumlari import image
-import OshxonaBuyumlariBir from "../image/OshxonaBuyumlariBir.webp";
-import OshxonaBuyumlariIkki from "../image/OshxonaBuyumlariIkki.webp";
 import OshxonaBuyumlariUch from "../image/OshxonaBuyumlariUch.webp";
-import OshxonaBuyumlariTort from "../image/OshxonaBuyumlariTort.webp";
 
 //Videoregstratorlar import image
 import VideoregstratorlarBir from "../image/VideoregstratorlarBir.webp";
 import VideoregstratorlarIkki from "../image/VideoregstratorlarIkki.webp";
 
 //Uy Uchun Texnika import image
-import UyUchunTexnikaBir from "../image/UyUchunTexnikaBir.webp";
 import UyUchunTexnikaIkki from "../image/UyUchunTexnikaIkki.webp";
-import UyUchunTexnikaUch from "../image/UyUchunTexnikaUch.webp";
 import UyUchunTexnikaTort from "../image/UyUchunTexnikaTort.webp";
 import UyUchunTexnikaBesh from "../image/UyUchunTexnikaBesh.webp";
 import UyUchunTexnikaOlti from "../image/UyUchunTexnikaOlti.webp";
@@ -228,8 +168,6 @@ import UyUchunTexnikaSakkiz from "../image/UyUchunTexnikaSakkiz.webp";
 import IqlimTexnikasiBir from "../image/IqlimTexnikasiBir.webp";
 
 //Aksessuarlari import image
-import AksessuarlariBir from "../image/AksessuarlariBir.webp";
-import AksessuarlariIkki from "../image/AksessuarlariIkki.webp";
 import AksessuarlariUch from "../image/AksessuarlariUch.webp";
 import AksessuarlariTort from "../image/AksessuarlariTort.webp";
 import AksessuarlariBesh from "../image/AksessuarlariBesh.webp";
@@ -247,7 +185,6 @@ import UstkiKiyimBir from "../image/UstkiKiyimBir.webp";
 
 //Chaqaloqlar Uchun Kiyimlar import image
 import ChaqaloqlarUchunKiyimlarBir from "../image/ChaqaloqlarUchunKiyimlarBir.webp";
-import ChaqaloqlarUchunKiyimlarIkki from "../image/ChaqaloqlarUchunKiyimlarIkki.webp";
 
 // Parfumeriya import image
 import YuzParvarishiBir from "../image/YuzParvarishiBir.webp";
@@ -280,19 +217,12 @@ import ShifobaxshSuvTort from "../image/ShifobaxshSuvTort.webp";
 
 //Massaj Uskunalar import image
 import MassajUskunalarBir from "../image/MassajUskunalarBir.webp";
-import MassajUskunalarIkki from "../image/MassajUskunalarIkki.webp";
 import MassajUskunalarUch from "../image/MassajUskunalarUch.webp";
-import MassajUskunalarTort from "../image/MassajUskunalarTort.webp";
 import MassajUskunalarBesh from "../image/MassajUskunalarBesh.webp";
-import MassajUskunalarOlti from "../image/MassajUskunalarOlti.webp";
 import MassajUskunalarYetti from "../image/MassajUskunalarYetti.webp";
-import MassajUskunalarSakkiz from "../image/MassajUskunalarSakkiz.webp";
 
 //Aqlli Oyinchoqlar import image
-import AqlliOyinchoqlarBir from "../image/AqlliOyinchoqlarBir.webp";
 import AqlliOyinchoqlarIkki from "../image/AqlliOyinchoqlarIkki.webp";
-import AqlliOyinchoqlarUch from "../image/AqlliOyinchoqlarUch.webp";
-import AqlliOyinchoqlarTort from "../image/AqlliOyinchoqlarTort.webp";
 
 //Yumshoq Oyinchoqlar import image
 import YumshoqOyinchoqlarBir from "../image/YumshoqOyinchoqlarBir.webp";
@@ -310,9 +240,6 @@ import ParfyumeriyalarBir from "../image/ParfyumeriyalarBir.webp";
 import ParfyumeriyalarIkki from "../image/ParfyumeriyalarIkki.webp";
 import ParfyumeriyalarUch from "../image/ParfyumeriyalarUch.webp";
 import ParfyumeriyalarTort from "../image/ParfyumeriyalarTort.webp";
-import ParfyumeriyalarBesh from "../image/ParfyumeriyalarBesh.webp";
-import ParfyumeriyalarOlti from "../image/ParfyumeriyalarOlti.webp";
-import ParfyumeriyalarYetti from "../image/ParfyumeriyalarYetti.webp";
 import ParfyumeriyalarSakkiz from "../image/ParfyumeriyalarSakkiz.webp";
 
 //Suverinlar image import
